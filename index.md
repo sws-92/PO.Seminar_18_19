@@ -1,4 +1,4 @@
-title: EOAS Physical Oceanography Seminars
+## EOAS Physical Oceanography Seminars
 
 
 Date               |  Speaker         |  Title  |  Room
