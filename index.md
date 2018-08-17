@@ -3,7 +3,7 @@
 
 Date               |  Speaker         |  Title  |  Room
 -------------------|------------------|---------|----------
-03 September 2018  |  No Talk         |         |
+03 September 2018  |  Holiday         |         |
 10 September 2018  |                  |         |  ESB 5106
 17 September 2018  |                  |         |  ESB 5106
 24 September 2018  |                  |         |  ESB 5106
