@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## EOAS Physical Oceanography Seminars
 
-You can use the [editor on GitHub](https://github.com/sws-92/PO.Seminar_18_19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Date               |  Speaker         |  Title  |  Room
+-------------------|------------------|---------|----------
+03 September 2018  |  No Talk         |         |
+10 September 2018  |                  |         |  ESB 5106
+17 September 2018  |                  |         |  ESB 5106
+24 September 2018  |                  |         |  ESB 5106
+01 October 2018    |                  |         |  ESB 5106
+08 October 2018    |  Holiday         |         |
+15 October 2018    |                  |         |  ESB 5106
+22 October 2018    |                  |         |  ESB 5106
+29 October 2018    |  Rich Pawlowicz  |         |  ESB 5106
+05 November 2018   |                  |         |  ESB 5106
+12 November 2018   |                  |         |  ESB 5106
+19 November 2018   |                  |         |  ESB 5106
+26 November 2018   |                  |         |  ESB 5106
+03 December 2018   |                  |         |  ESB 5106
+10 December 2018   |                  |         |  ESB 5106
+17 December 2018   |                  |         |  ESB 5106
+24 December 2018   |  Holiday         |         |
+31 December 2018   |  Holiday         |         |
+07 January 2019    |                  |         |  ESB 5106
+14 January 2019    |                  |         |  ESB 5106
+21 January 2019    |                  |         |  ESB 5106
+28 January 2019    |                  |         |  ESB 5106
+04 February 2019   |                  |         |  ESB 5106
+11 February 2019   |                  |         |  ESB 5106
+18 February 2019   |  Holiday         |         |
+25 February 2019   |                  |         |  ESB 5106
+04 March 2019      |                  |         |  ESB 5106
+11 March 2019      |                  |         |  ESB 5106
+18 March 2019      |                  |         |  ESB 5106
+25 March 2019      |                  |         |  ESB 5106
+01 April 2019      |                  |         |  ESB 5106
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sws-92/PO.Seminar_18_19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email sstevens@eoas.ubc.ca for details or if you would like to speak at a seminar. 
