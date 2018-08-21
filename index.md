@@ -1,38 +1,38 @@
 ## EOAS Physical Oceanography Seminars
 
 
-Date               |  Speaker         |  Title  |  Room
--------------------|------------------|---------|----------
-03 September 2018  |  Holiday         |         |
-10 September 2018  |                  |         |  ESB 5106
-17 September 2018  |                  |         |  ESB 5106
-24 September 2018  |                  |         |  ESB 5106
-01 October 2018    |                  |         |  ESB 5106
-08 October 2018    |  Holiday         |         |
-15 October 2018    |                  |         |  ESB 5106
-22 October 2018    |                  |         |  ESB 5106
-29 October 2018    |  Rich Pawlowicz  |         |  ESB 5106
-05 November 2018   |                  |         |  ESB 5106
-12 November 2018   |                  |         |  ESB 5106
-19 November 2018   |                  |         |  ESB 5106
-26 November 2018   |                  |         |  ESB 5106
-03 December 2018   |                  |         |  ESB 5106
-10 December 2018   |                  |         |  ESB 5106
-17 December 2018   |                  |         |  ESB 5106
-24 December 2018   |  Holiday         |         |
-31 December 2018   |  Holiday         |         |
-07 January 2019    |                  |         |  ESB 5106
-14 January 2019    |                  |         |  ESB 5106
-21 January 2019    |                  |         |  ESB 5106
-28 January 2019    |                  |         |  ESB 5106
-04 February 2019   |                  |         |  ESB 5106
-11 February 2019   |                  |         |  ESB 5106
-18 February 2019   |  Holiday         |         |
-25 February 2019   |                  |         |  ESB 5106
-04 March 2019      |                  |         |  ESB 5106
-11 March 2019      |                  |         |  ESB 5106
-18 March 2019      |                  |         |  ESB 5106
-25 March 2019      |                  |         |  ESB 5106
-01 April 2019      |                  |         |  ESB 5106
+Date       |  Speaker          |  Title                                                                                                                           |  Room
+-----------|-------------------|----------------------------------------------------------------------------------------------------------------------------------|----------
+03-Sep-18  |  No Talk          |                                                                                                                                  |
+10-Sep-18  |                   |                                                                                                                                  |  ESB 5106
+17-Sep-18  |                   |                                                                                                                                  |  ESB 5106
+24-Sep-18  |                   |                                                                                                                                  |  ESB 5106
+01-Oct-18  |  Melanie Chanona  |  Wave-driven mixing variability in the Beaufort Sea and straits of the Canadian Arctic Archipelago from multi-year time series.  |  ESB 5106
+08-Oct-18  |  Holiday          |                                                                                                                                  |
+15-Oct-18  |                   |                                                                                                                                  |  ESB 5106
+22-Oct-18  |                   |                                                                                                                                  |  ESB 5106
+29-Oct-18  |  Rich Pawlowicz   |                                                                                                                                  |  ESB 5106
+05-Nov-18  |                   |                                                                                                                                  |  ESB 5106
+12-Nov-18  |                   |                                                                                                                                  |  ESB 5106
+19-Nov-18  |                   |                                                                                                                                  |  ESB 5106
+26-Nov-18  |                   |                                                                                                                                  |  ESB 5106
+03-Dec-18  |                   |                                                                                                                                  |  ESB 5106
+10-Dec-18  |                   |                                                                                                                                  |  ESB 5106
+17-Dec-18  |                   |                                                                                                                                  |  ESB 5106
+24-Dec-18  |  Holiday          |                                                                                                                                  |
+31-Dec-18  |  Holiday          |                                                                                                                                  |
+07-Jan-19  |                   |                                                                                                                                  |  ESB 5106
+14-Jan-19  |                   |                                                                                                                                  |  ESB 5106
+21-Jan-19  |                   |                                                                                                                                  |  ESB 5106
+28-Jan-19  |                   |                                                                                                                                  |  ESB 5106
+04-Feb-19  |                   |                                                                                                                                  |  ESB 5106
+11-Feb-19  |                   |                                                                                                                                  |  ESB 5106
+18-Feb-19  |  Holiday          |                                                                                                                                  |
+25-Feb-19  |                   |                                                                                                                                  |  ESB 5106
+04-Mar-19  |                   |                                                                                                                                  |  ESB 5106
+11-Mar-19  |                   |                                                                                                                                  |  ESB 5106
+18-Mar-19  |                   |                                                                                                                                  |  ESB 5106
+25-Mar-19  |                   |                                                                                                                                  |  ESB 5106
+01-Apr-19  |                   |                                                                                                                                  |  ESB 5106
 
 Email sstevens@eoas.ubc.ca for details or if you would like to speak at a seminar. 
