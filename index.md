@@ -9,7 +9,7 @@ Date       |  Speaker                |  Title                                   
 15-Oct-18  |  Haley Dosser           |                                                                                                                                  |  ESB 5106
 22-Oct-18  |  Andreas Thurnherr      |                                                                                                                                  |  ESB 5106
 29-Oct-18  |  Rich Pawlowicz         |                                                                                                                                  |  ESB 5106
-05-Nov-18  |  Fernanda Gianni        |  Remote Sensing of Biogeochemical Properties around the BC Coast                                                                 |  ESB 5106
+05-Nov-18  |  Fernanda Giannini      |  Remote Sensing of Biogeochemical Properties around the BC Coast                                                                 |  ESB 5106
 12-Nov-18  |  Nikos Simantiris       |  Double Diffusion in Powell Lake                                                                                                 |  ESB 5106
 19-Nov-18  |                         |                                                                                                                                  |  ESB 5106
 26-Nov-18  |                         |                                                                                                                                  |  ESB 5106
