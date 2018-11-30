@@ -13,14 +13,14 @@ Date       |  Speaker                |  Title                                   
 12-Nov-18  |  Holiday                |                                                                                                                                  |
 19-Nov-18  |  No Talk                |                                                                                                                                  |
 26-Nov-18  |  No Talk                |                                                                                                                                  |
-03-Dec-18  |  Boris Espinasse        |  North Pacific Isoscapes                                                                                                         |  ESB 5106
+03-Dec-18  |  Boris Espinasse        |  Defining isoscapes in the Northeast Pacific as an index of ocean productivity                                                   |  ESB 5106
 10-Dec-18  |  Nikos Simantiris       |  Double Diffusion in Powell Lake                                                                                                 |  ESB 5106
 17-Dec-18  |  Jason Olsthoorn        |                                                                                                                                  |  ESB 5106
 24-Dec-18  |  Holiday                |                                                                                                                                  |
 31-Dec-18  |  Holiday                |                                                                                                                                  |
 07-Jan-19  |                         |                                                                                                                                  |  ESB 5106
 14-Jan-19  |  Ginny Broadhurst       |                                                                                                                                  |  ESB 5106
-21-Jan-19  |                         |                                                                                                                                  |  ESB 5106
+21-Jan-19  |  Ana Franco             |   Modelling ocean acidification in the Humboldt Current System                                                                   |  ESB 5106
 28-Jan-19  |                         |                                                                                                                                  |  ESB 5106
 04-Feb-19  |                         |                                                                                                                                  |  ESB 5106
 11-Feb-19  |                         |                                                                                                                                  |  ESB 5106
@@ -31,3 +31,15 @@ Date       |  Speaker                |  Title                                   
 18-Mar-19  |                         |                                                                                                                                  |  ESB 5106
 25-Mar-19  |                         |                                                                                                                                  |  ESB 5106
 01-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+08-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+15-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+22-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+29-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+06-May-19  |                         |                                                                                                                                  |  ESB 5106
+13-May-19  |                         |                                                                                                                                  |  ESB 5106
+20-May-19  |  Holiday                |                                                                                                                                  |
+27-May-19  |                         |                                                                                                                                  |  ESB 5106
+03-Jun-19  |                         |                                                                                                                                  |  ESB 5106
+10-Jun-19  |                         |                                                                                                                                  |  ESB 5106
+17-Jun-19  |                         |                                                                                                                                  |  ESB 5106
+24-Jun-19  |                         |                                                                                                                                  |  ESB 5106
