@@ -18,8 +18,8 @@ Date       |  Speaker                |  Title                                   
 17-Dec-18  |  Jason Olsthoorn        |                                                                                                                                  |  ESB 5106
 24-Dec-18  |  Holiday                |                                                                                                                                  |
 31-Dec-18  |  Holiday                |                                                                                                                                  |
-07-Jan-19  |  Hayley Dosser          |                                                                                                                                  |  ESB 5106
-14-Jan-19  |  Rachael Mueller        |  Oil and water don't mix- or do they? An introduction to Modeling Impacts of Oil and Dilbit in the Salish Sea                    |  ESB 5106
+07-Jan-19  |  Hayley Dosser          |  Physical controls on nutrient supply in the northern Strait of Georgia and Queen Charlotte Strait                               |  ESB 5106
+14-Jan-19  |  Rachael Mueller        |  Oil and water don't mix... or do they? An introduction to Modeling Impacts of Oil and Dilbit in the Salish Sea                    |  ESB 5106
 21-Jan-19  |  Ana Franco             |  Modelling ocean acidification in the Humboldt Current System                                                                    |  ESB 5106
 28-Jan-19  |  Rich Pawlowicz         |  The fate of drifting objects in the Salish Sea                                                                                  |  ESB 5106
 04-Feb-19  |                         |                                                                                                                                  |  ESB 5106
@@ -28,7 +28,7 @@ Date       |  Speaker                |  Title                                   
 25-Feb-19  |  Ginny Broadhurst       |                                                                                                                                  |  ESB 5106
 04-Mar-19  |  Mina Masoud            |  Low/high-frequency variations in the southern continental shelf of the Caspian Sea                                              |  ESB 5106
 11-Mar-19  |                         |                                                                                                                                  |  ESB 5106
-18-Mar-19  |                         |                                                                                                                                  |  ESB 5106
+18-Mar-19  |  Randie Bundy           |                                                                                                                                  |  ESB 5106
 25-Mar-19  |                         |                                                                                                                                  |  ESB 5106
 01-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 08-Apr-19  |                         |                                                                                                                                  |  ESB 5106
