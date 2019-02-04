@@ -22,7 +22,7 @@ Date       |  Speaker                |  Title                                   
 14-Jan-19  |  Rachael Mueller        |  Oil and water don't mix... or do they? An introduction to Modeling Impacts of Oil and Dilbit in the Salish Sea                    |  ESB 5106
 21-Jan-19  |  Ana Franco             |  Modelling ocean acidification in the Humboldt Current System                                                                    |  ESB 5106
 28-Jan-19  |  Rich Pawlowicz         |  The fate of drifting objects in the Salish Sea                                                                                  |  ESB 5106
-04-Feb-19  |                         |                                                                                                                                  |  ESB 5106
+04-Feb-19  |  No talk                |                                                                                                                                  |  ESB 5106
 11-Feb-19  |  Mei Sato               |  Biological-Physical Interactions in Animal Behaviour                                                                            |  ESB 5106
 18-Feb-19  |  Holiday                |                                                                                                                                  |
 25-Feb-19  |  Ginny Broadhurst       |                                                                                                                                  |  ESB 5106
@@ -34,7 +34,7 @@ Date       |  Speaker                |  Title                                   
 08-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 15-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 22-Apr-19  |                         |                                                                                                                                  |  ESB 5106
-29-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+29-Apr-19  |  Karina Musalem         |  Experiments in a rotating tank                                                                                                  |  ESB 5106
 06-May-19  |                         |                                                                                                                                  |  ESB 5106
 13-May-19  |                         |                                                                                                                                  |  ESB 5106
 20-May-19  |  Holiday                |                                                                                                                                  |
