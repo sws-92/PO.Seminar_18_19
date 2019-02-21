@@ -25,7 +25,7 @@ Date       |  Speaker                |  Title                                   
 04-Feb-19  |  No talk                |                                                                                                                                  |  ESB 5106
 11-Feb-19  |  Mei Sato               |  How biological and physical processes impact life in the ocean                                                                  |  ESB 5106
 18-Feb-19  |  Holiday                |                                                                                                                                  |
-25-Feb-19  |  Ginny Broadhurst       |                                                                                                                                  |  ESB 5106
+25-Feb-19  |  Ginny Broadhurst       |  Salish Sea Studies: Exploring culture, governance and environmental challenges in a unique international ecosystem              |  ESB 5106
 04-Mar-19  |  Mina Masoud            |  Low/high-frequency variations in the southern continental shelf of the Caspian Sea                                              |  ESB 5106
 11-Mar-19  |                         |                                                                                                                                  |  ESB 5106
 18-Mar-19  |  Randie Bundy           |                                                                                                                                  |  ESB 5106
