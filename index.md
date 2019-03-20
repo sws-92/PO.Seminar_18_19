@@ -29,7 +29,7 @@ Date       |  Speaker                |  Title                                   
 04-Mar-19  |  Mina Masoud            |  High-frequency variations in the southern continental shelf of the Caspian Sea                                                  |  ESB 5106
 11-Mar-19  |  No Talk                |                                                                                                                                  |  ESB 5106
 18-Mar-19  |  Maite Maldonado        |  Understanding our anemic oceans: Iron Cycling in Antarctic Waters                                                               |  ESB 5106
-25-Mar-19  |  Ben Scheifele          |                                                                                                                                  |  ESB 5106
+25-Mar-19  |  Ben Scheifele          |  Turbulence and Mixing Estimates in the Arctic Ocean's Amundsen Gulf                                                             |  ESB 5106
 01-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 08-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 15-Apr-19  |                         |                                                                                                                                  |  ESB 5106
