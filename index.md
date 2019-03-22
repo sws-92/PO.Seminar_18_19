@@ -41,5 +41,5 @@ Date       |  Speaker                |  Title                                   
 27-May-19  |                         |                                                                                                                                  |  ESB 5106
 03-Jun-19  |                         |                                                                                                                                  |  ESB 5106
 10-Jun-19  |                         |                                                                                                                                  |  ESB 5106
-17-Jun-19  |                         |                                                                                                                                  |  ESB 5106
+17-Jun-19  |  Wiley Evans            |                                                                                                                                  |  ESB 5106
 24-Jun-19  |                         |                                                                                                                                  |  ESB 5106
