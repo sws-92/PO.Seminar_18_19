@@ -33,7 +33,7 @@ Date       |  Speaker                |  Title                                   
 01-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 08-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 15-Apr-19  |                         |                                                                                                                                  |  ESB 5106
-22-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+22-Apr-19  |  Ben  Moore-Maley       |                                                                                                                                  |  ESB 5106
 29-Apr-19  |  Karina Musalem         |  Experiments in a rotating tank                                                                                                  |  ESB 5106
 06-May-19  |  Tara Howatt            |                                                                                                                                  |  ESB 5106
 13-May-19  |  Sam Anderson           |                                                                                                                                  |  ESB 5106
