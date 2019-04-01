@@ -30,16 +30,26 @@ Date       |  Speaker                |  Title                                   
 11-Mar-19  |  No Talk                |                                                                                                                                  |  ESB 5106
 18-Mar-19  |  Maite Maldonado        |  Understanding our anemic oceans: Iron Cycling in Antarctic Waters                                                               |  ESB 5106
 25-Mar-19  |  Ben Scheifele          |  Turbulence and Mixing Estimates in the Arctic Ocean's Amundsen Gulf                                                             |  ESB 5106
-01-Apr-19  |                         |                                                                                                                                  |  ESB 5106
+01-Apr-19  |  No Talk                |                                                                                                                                  |  ESB 5106
 08-Apr-19  |                         |                                                                                                                                  |  ESB 5106
 15-Apr-19  |                         |                                                                                                                                  |  ESB 5106
-22-Apr-19  |  Ben  Moore-Maley       |                                                                                                                                  |  ESB 5106
+22-Apr-19  |  Holiday                |                                                                                                                                  |  ESB 5106
 29-Apr-19  |  Karina Musalem         |  Experiments in a rotating tank                                                                                                  |  ESB 5106
 06-May-19  |  Tara Howatt            |                                                                                                                                  |  ESB 5106
 13-May-19  |  Sam Anderson           |                                                                                                                                  |  ESB 5106
 20-May-19  |  Holiday                |                                                                                                                                  |
-27-May-19  |                         |                                                                                                                                  |  ESB 5106
+27-May-19  |  Ben  Moore-Maley       |                                                                                                                                  |  ESB 5106
 03-Jun-19  |                         |                                                                                                                                  |  ESB 5106
 10-Jun-19  |                         |                                                                                                                                  |  ESB 5106
 17-Jun-19  |  Wiley Evans            |                                                                                                                                  |  ESB 5106
 24-Jun-19  |                         |                                                                                                                                  |  ESB 5106
+01-Jul-19  |                         |                                                                                                                                  |  ESB 5106
+08-Jul-19  |                         |                                                                                                                                  |  ESB 5106
+15-Jul-19  |                         |                                                                                                                                  |  ESB 5106
+22-Jul-19  |                         |                                                                                                                                  |  ESB 5106
+29-Jul-19  |                         |                                                                                                                                  |  ESB 5106
+05-Aug-19  |                         |                                                                                                                                  |  ESB 5106
+12-Aug-19  |                         |                                                                                                                                  |  ESB 5106
+19-Aug-19  |                         |                                                                                                                                  |  ESB 5106
+26-Aug-19  |                         |                                                                                                                                  |  ESB 5106
+02-Sep-19  |                         |                                                                                                                                  |  ESB 5106
