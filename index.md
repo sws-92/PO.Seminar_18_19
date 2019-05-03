@@ -34,9 +34,9 @@ Date       |  Speaker                       |  Title                            
 08-Apr-19  |  No Talk                       |                                                                                                                                  |  ESB 5106
 15-Apr-19  |  Ashutosh Bhudia and Iris Gao  |  Co-op Students: End of Term Talks                                                                                               |  ESB 5106
 22-Apr-19  |  Holiday                       |                                                                                                                                  |  ESB 5106
-29-Apr-19  |  Karina Musalem                |  Experiments in a rotating tank                                                                                                  |  ESB 5106
-06-May-19  |  Tara Howatt                   |                                                                                                                                  |  ESB 5106
-13-May-19  |  Sam Anderson                  |                                                                                                                                  |  ESB 5106
+29-Apr-19  |  Karina Musalem                |  A physical model to study the dynamical interaction between two adjacent submarine canyons                                      |  ESB 5106
+06-May-19  |  Tara Howatt                   |  Methods for Estimating Turbulent Dissipation Rates from Glider Data                                                             |  ESB 5106
+13-May-19  |  Sam Anderson                  |                                                                                                                                  |  ESB 5104
 20-May-19  |  Holiday                       |                                                                                                                                  |
 27-May-19  |  Ben  Moore-Maley              |                                                                                                                                  |  ESB 5106
 03-Jun-19  |                                |                                                                                                                                  |  ESB 5106
