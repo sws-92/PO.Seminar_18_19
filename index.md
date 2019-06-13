@@ -36,20 +36,21 @@ Date       |  Speaker                       |  Title                            
 22-Apr-19  |  Holiday                       |                                                                                                                                  |  ESB 5106
 29-Apr-19  |  Karina Musalem                |  A physical model to study the dynamical interaction between two adjacent submarine canyons                                      |  ESB 5106
 06-May-19  |  Tara Howatt                   |  Methods for Estimating Turbulent Dissipation Rates from Glider Data                                                             |  ESB 5106
-13-May-19  |  Sam Anderson                  |                                                                                                                                  |  ESB 5104
+13-May-19  |  Sam Anderson                  |  Glaciers, climate, and water supply in Western Canada                                                                           |  ESB 5104
 20-May-19  |  Holiday                       |                                                                                                                                  |
-27-May-19  |  Ben  Moore-Maley              |                                                                                                                                  |  ESB 5106
-03-Jun-19  |                                |                                                                                                                                  |  ESB 5106
-10-Jun-19  |                                |                                                                                                                                  |  ESB 5106
-17-Jun-19  |  Wiley Evans                   |                                                                                                                                  |  ESB 5106
+27-May-19  |  Ben  Moore-Maley              |  Wind-Driven Upwelling in the Strait of Georgia                                                                                  |  ESB 5106
+03-Jun-19  |  No Talk                       |                                                                                                                                  |  ESB 5106
+10-Jun-19  |  No Talk                       |                                                                                                                                  |  ESB 5106
+17-Jun-19  |  Wiley Evans                   |  Observing Marine CO2 along the Northeast Pacific Margin                                                                         |  ESB 5106
 24-Jun-19  |                                |                                                                                                                                  |  ESB 5106
-01-Jul-19  |                                |                                                                                                                                  |  ESB 5106
-08-Jul-19  |                                |                                                                                                                                  |  ESB 5106
-15-Jul-19  |                                |                                                                                                                                  |  ESB 5106
-22-Jul-19  |                                |                                                                                                                                  |  ESB 5106
+01-Jul-19  |  No Talk (summer hiatus)       |                                                                                                                                  |  ESB 5106
+08-Jul-19  |  No Talk (summer hiatus)       |                                                                                                                                  |  ESB 5106
+15-Jul-19  |  No Talk (summer hiatus)       |                                                                                                                                  |  ESB 5106
+22-Jul-19  |  No Talk (summer hiatus)       |                                                                                                                                  |  ESB 5106
 29-Jul-19  |                                |                                                                                                                                  |  ESB 5106
 05-Aug-19  |                                |                                                                                                                                  |  ESB 5106
 12-Aug-19  |                                |                                                                                                                                  |  ESB 5106
 19-Aug-19  |                                |                                                                                                                                  |  ESB 5106
 26-Aug-19  |                                |                                                                                                                                  |  ESB 5106
-02-Sep-19  |                                |                                                                                                                                  |  ESB 5106
+02-Sep-19  |  Phil Austin                   |                                                                                                                                  |  ESB 5106
+09-Sep-19  |                                |                                                                                                                                  |  ESB 5106
